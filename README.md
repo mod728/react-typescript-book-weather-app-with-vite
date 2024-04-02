@@ -3,6 +3,7 @@
 三好アキ著『はじめてつくるReactアプリ with TypeScript（Vite版）』コード
 
 React + Vite + TypeScript
+
 Reactバージョン18
 
 第2章完了時点のソースコードです。
