@@ -1,6 +1,6 @@
-# ウェザーアプリ（React + TypeScript with Vite）
+# ウェザーアプリ（React + TypeScript）
 
-三好アキ著『はじめてつくるReactアプリ with TypeScript（Vite版）』コード
+三好アキ著『はじめてつくるReactアプリ with TypeScript』コード
 
 React + Vite + TypeScript
 
